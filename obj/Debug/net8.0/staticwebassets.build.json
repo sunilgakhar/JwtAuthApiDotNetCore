@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fZuaHxwn6ENyjXBQR+jdODqY1MGa8UjIaUXSDX4tOSQ=",
+  "Source": "JwtAuthApiDotNetCore",
+  "BasePath": "_content/JwtAuthApiDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
